@@ -10,8 +10,12 @@ fixation cross for .5s, then a fixed offer for 1.5s. The first offer could be
 an SS or LL. Then a fixation cross is presented for 6 seconds before the 
 probability adjusted offer is presented for a maximum of 4 seconds. The ITI 
 goes from 2-3 seconds, with uniform jitter.
+
+This code depends on the expyriment package there are several additional 
+dependencies that come along. Check out the link below for more info.
+http://docs.expyriment.org/Installation.html
  
-Check out:
+For a content reference check out:
 http://en.wikipedia.org/wiki/Hyperbolic_discounting
 
 """
